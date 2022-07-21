@@ -4,14 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d77749b0-12fa-4939-8e53-666f74842095" name="Changes" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/InterruptDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/InterruptDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/ThreadLifeCircleDemo.java" afterDir="false" />
+    <list default="true" id="d77749b0-12fa-4939-8e53-666f74842095" name="Changes" comment="2022年7月15日07:25:13  线程的学习（生命周期）">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/FinalProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/PrintProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/ProcessorServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/RequestProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockQueue/SaveProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/application/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/concurrentutils/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/concurrentutils/CountDownLatchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/simulationimplementation/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/simulationimplementation/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/blockqueueprinciple/simulationimplementation/SimulationImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/communicate/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/communicate/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/communicate/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/lock/AtomicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/lock/RWLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo2/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo2/demo/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo2/demo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo2/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo3/InterruptedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo3/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/yong/verifylambda/VerifyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/ThreadTestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo1/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/InterruptDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo1/InterruptDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/InterruptDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo1/InterruptDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo1/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/yong/ThreadLifeCircleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/yong/threaddemo1/ThreadLifeCircleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/CallableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/InterruptDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/InterruptDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/ThreadLifeCircleDemo$BlockedDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yong/ThreadLifeCircleDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +93,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RebelAgentSelection">
@@ -66,16 +105,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.yong.blockqueueprinciple.concurrentutils" />
+      <recent name="org.yong.blockQueue" />
       <recent name="org.yong" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="InterruptDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.yong.InterruptDemo2" />
+  <component name="RunManager" selected="Application.CountDownLatchDemo2">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.yong.blockqueueprinciple.concurrentutils.CountDownLatchDemo" />
       <module name="thread-learning-gp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.yong.*" />
+          <option name="PATTERN" value="org.yong.blockqueueprinciple.concurrentutils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +124,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CountDownLatchDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.yong.blockqueueprinciple.concurrentutils.CountDownLatchDemo2" />
+      <module name="thread-learning-gp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yong.blockqueueprinciple.concurrentutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.yong.blockQueue.ProcessorServer" />
+      <module name="thread-learning-gp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yong.blockQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.yong.blockqueueprinciple.simulationimplementation.SimulationImplementation" />
+      <module name="thread-learning-gp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yong.blockqueueprinciple.simulationimplementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.yong.blockqueueprinciple.application.UserService" />
+      <module name="thread-learning-gp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yong.blockqueueprinciple.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProcessorServer" />
+      <item itemvalue="Application.UserService" />
+      <item itemvalue="Application.SimulationImplementation" />
+      <item itemvalue="Application.CountDownLatchDemo" />
+      <item itemvalue="Application.CountDownLatchDemo2" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InterruptDemo2" />
+        <item itemvalue="Application.CountDownLatchDemo2" />
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.SimulationImplementation" />
+        <item itemvalue="Application.UserService" />
+        <item itemvalue="Application.ProcessorServer" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +203,14 @@
       <updated>1657798056718</updated>
       <workItem from="1657798058220" duration="673000" />
       <workItem from="1657799264815" duration="7643000" />
+      <workItem from="1657841080236" duration="1540000" />
+      <workItem from="1657957866320" duration="9767000" />
+      <workItem from="1658013199035" duration="11531000" />
+      <workItem from="1658095310088" duration="3645000" />
+      <workItem from="1658183387100" duration="15730000" />
+      <workItem from="1658239549435" duration="474000" />
+      <workItem from="1658274462754" duration="9775000" />
+      <workItem from="1658354810988" duration="13190000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1657798438534</created>
@@ -107,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657798438534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2022年7月15日07:25:13  线程的学习（生命周期）">
+      <created>1657841147157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657841147157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +246,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="2022年7月15日07:25:13  线程的学习（生命周期）" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022年7月15日07:25:13  线程的学习（生命周期）" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../development_environment/jdk/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>742</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package org.yong;
+package org.yong.threaddemo1;
 
 import java.util.concurrent.TimeUnit;
 
